@@ -1,5 +1,8 @@
-#### Hi, I'm Fernvales!
-Currently working on a project called Vesper - Vesper is a music discovery platform that transforms songs into interactive musical universes, using similarity and genre relationships to help users discover connected artists and tracks.<br>built with Next.js and typeScript, it combines music APIs, dynamic graph visualization, and an immersive astronomical interface to create an exploratory alternative to traditional music recommendation systems.<br><br>I am a high school student who does music programs @ Augusta University. I have 10+ years of music experience, whether through production, composition, or performance, and 2+ years of self taught CS and software knowledge.
+#### Hi, I'm Sebastian!
+
+
+High school student • musician • 10+ years of music • 2+ years of self-taught CS & software development • music programs @ Augusta University
+
 
 #### Projects:
 [vesper](https://github.com/Fernvales/vesper) - An interactive music discovery app built with Next.js, React, and TypeScript, using Last.fm, Deezer, Apple/iTunes, and SoundCloud APIs to map relationships between songs and artists.
