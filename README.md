@@ -5,8 +5,7 @@ Currently working on a project called Vesper - Vesper is a music discovery platf
 [vesper](https://github.com/Fernvales/vesper) - An interactive music discovery app built with Next.js, React, and TypeScript, using Last.fm, Deezer, Apple/iTunes, and SoundCloud APIs to map relationships between songs and artists.
 
 #### Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33159365) [![LeetCode](https://img.shields.io/badge/https%3A%2F%2Fleetcode.com%2Fu%2FFernvales%2F)](https://leetcode.com/u/Fernvales/)
-
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33159365) [![LeetCode](https://img.shields.io/badge/LeetCode-Fernvales-black?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Fernvales/)
 
 
 #### Tech Stack:
