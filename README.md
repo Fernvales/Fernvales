@@ -1,7 +1,8 @@
 #### Hi, I'm Sebastian!
 
 
-High school student • musician • 10+ years of music • 2+ years of self-taught CS & software development • music programs @ Augusta University
+High school student and musician interested in the intersection of music, computer science, physics, and creative technology.<br>I’m especially interested in algorithms, visualization, simulations, audio  technology, and understanding how things work beneath the surface.<br>
+Also a fan of cats, otters, astronomy, and anything that makes me curious enough to start another project.<br>My background spans a decade of musical experience across composition, production, and performance, alongside extensive self-directed study in software development, programming, algorithms, and computational problem solving. I enjoy turning ideas into real, working systems and learning by building things from the ground up.
 
 
 #### Projects:
