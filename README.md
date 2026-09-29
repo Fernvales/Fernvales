@@ -7,7 +7,7 @@ Also a fan of cats, otters, astronomy, and anything that makes me curious enough
 
 #### Projects:
 [vesper](https://github.com/Fernvales/vesper) - An interactive music discovery app built with Next.js, React, and TypeScript, using Last.fm, Deezer, Apple/iTunes, and SoundCloud APIs to map relationships between songs and artists.
-[resonance - WIP](https://github.com/Fernvales/resonance) - Tracing the path from physical vibration to musical frequency through physics, mathematics, and computation.
+<br>[resonance - WIP](https://github.com/Fernvales/resonance) - Tracing the path from physical vibration to musical frequency through physics, mathematics, and computation.
 
 #### Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33159365) [![LeetCode](https://img.shields.io/badge/LeetCode-Fernvales-black?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Fernvales/)
